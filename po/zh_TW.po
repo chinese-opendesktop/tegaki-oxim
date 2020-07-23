@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-24 11:04+0800\n"
+"PO-Revision-Date: 2009-04-24 00:00+0800\n"
+"Last-Translator: Wind <yc.yan@ossii.com.tw>\n"
+"Language-Team: oxim <yc.yan@ossii.com.tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bin/tegaki-oxim:89
+msgid "Clear"
+msgstr "清除"
+
+#: bin/tegaki-oxim:97
+msgid "Find"
+msgstr "尋找"
+
+#: bin/tegaki-oxim:105
+msgid "Undo"
+msgstr "復原"
+
+#: bin/tegaki-oxim:123
+msgid "send BackSpace key"
+msgstr "送出倒退鍵"
+
+#: bin/tegaki-oxim:127
+msgid "send Space key"
+msgstr "送出空白鍵"
+
+#: bin/tegaki-oxim:131
+msgid "send Return key"
+msgstr "送出換行鍵"
+
+#: bin/tegaki-oxim:145
+msgid "exit"
+msgstr "離開"
+
+#: bin/tegaki-oxim:316
+msgid "Commit"
+msgstr "送出"
+
+#: bin/tegaki-oxim:323
+msgid "Del"
+msgstr "刪除"
